@@ -1,0 +1,5 @@
+1 :: 2;81597;Dr. Estranho; https://static3.tcdn.com.br/img/img_prod/460977/caneca_doctor_strange_doutor_estranho_heroi_disney_preta_ev_91797_1_18c5e3dca2c6ecc535e0358c74f4eca8.jpg;15.99;1;
+2 :: 1;84795;Donkey Kong;https://cdn.awsli.com.br/600x1000/0/622/produto/131717006/fca20f8913.jpg;17.99;4;P
+3 :: 2;38361;Feiticeira Escarlate;https://i.etsystatic.com/22907308/r/il/f696c3/3791645318/il_fullxfull.3791645318_1nan.jpg;25.99;1;
+4 :: 3;17976;One Piece Vol. 01;https://m.media-amazon.com/images/I/71y+XnBXm4L._AC_UF1000,1000_QL80_.jpg;39.9;5;
+5 :: 1;33315;Thanos;https://cdn.awsli.com.br/600x1000/0/622/produto/31390289/18e61d6bfd.jpg;59.9;4;GG
