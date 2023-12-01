@@ -18,7 +18,7 @@ O programa possui uma classe genérica para representar produtos, com três subc
 2. Canecas: Além dos atributos comuns, as canecas possuem o campo de capacidade, medido em litros.
 3. Quadrinhos: Além dos atributos comuns, os quadrinhos têm informações relativas a autor e editora.
 
-O usuário interage com o programa através de comandos de input para adicionar ou remover produtos da lista e finalizar a compra. O programa realiza tratamento de exceções para lidar com entradas inesperadas.
+O usuário interage com a loja através de um sistema web completo, para adicionar ou remover produtos do sistema e finalizar compra. O sistema realiza tratamento de exceções para lidar com entradas não permitidas.
 
 ### Promoções Especiais
 
